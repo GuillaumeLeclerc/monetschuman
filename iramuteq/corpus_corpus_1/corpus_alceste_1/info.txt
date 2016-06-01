@@ -1,0 +1,21 @@
+
++-+-+-+-+-+-+-+-+
+|i|R|a|M|u|T|e|Q| - Fri May 27 11:32:23 2016
++-+-+-+-+-+-+-+-+
+
+
+Nombre de textes: 98
+Nombre de segments de texte: 1798
+Nombre de formes: 5863
+Nombre d'occurrences: 64474
+Nombre de lemmes: 3505
+Nombre de formes actives: 3075
+Nombre de formes supplémentaires: 430
+Nombre de formes actives avec une fréquence >= 3: 1532
+Moyenne de formes par segment: 35.858732
+Nombre de classes: 4
+1792 segments classés sur 1798 (99.67%)
+
+###########################
+temps : 0h 0m 24s
+###########################

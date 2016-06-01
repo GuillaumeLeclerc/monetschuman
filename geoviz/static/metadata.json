@@ -1,0 +1,1808 @@
+{
+  "lettre-valay-schuman-6-juin-1950": {
+    "date": "1950-06-06",
+    "type": "Lettre",
+    "path": "lettre-valay-schuman-6-juin-1950.txt",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "europe",
+      "france"
+    ],
+    "from": "Gabriel Valay",
+    "characters": [
+      "Valay, Gabriel",
+      "Schuman, Robert"
+    ]
+  },
+  "letter-08": {
+    "date": "1950-08-15",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "strasbourg",
+      "bonn",
+      "paris"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bidault, Georges",
+      "Bonnefous, Edouard",
+      "Clappier, Bernard",
+      "Henry, Pierre",
+      "Mollet, Guy",
+      "Philip, André",
+      "Reynaud, Paul",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-08.txt"
+  },
+  "appendix-01-1": {
+    "date": "1947-05-12",
+    "type": "Note",
+    "path": "appendix-01-1.txt",
+    "letter": "letter-01",
+    "locations": [
+      "france"
+    ]
+  },
+  "appendix-01-2": {
+    "date": "1947-05-12",
+    "type": "Note",
+    "path": "appendix-01-2.txt",
+    "locations": [],
+    "letter": "letter-01",
+    "characters": [
+      "Ramadier, Paul"
+    ]
+  },
+  "letter-29": {
+    "date": "1951-02-7",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "sarre"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Hallstein, Walter",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-29.txt"
+  },
+  "letter-41": {
+    "date": "1951-12-28",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Baraduc, Pierre Jacques",
+      "Bidault, Georges",
+      "Mayer, René",
+      "Pleven, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-41.txt"
+  },
+  "appendix-50-2": {
+    "date": "1952-06-28",
+    "type": "Projet",
+    "path": "appendix-50-2.txt",
+    "letter": "letter-50.txt",
+    "locations": []
+  },
+  "letter-22": {
+    "date": "1950-12-22",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "ruhr",
+      "paris",
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bowie, Robert Richardson",
+      "Hallstein, Walter",
+      "McCloy, Jonh Jay",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-22.txt"
+  },
+  "letter-35": {
+    "date": "1951-05-15",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Hubert, Lucien Louis Théodore",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-35.txt"
+  },
+  "letter-56": {
+    "date": "1952-07-22",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "italie",
+      "bonn",
+      "benelux"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Bourbon-Busset, Jacques Louis Robert Marie",
+      "Hallstein, Walter",
+      "Mayer, René",
+      "Pilotti, Massimo",
+      "Pinay, Antoine",
+      "Quaroni, Pietro",
+      "Uri, Pierre Emmanuel",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-56.txt"
+  },
+  "lettre-acheson-schuman-30-octobre-1949": {
+    "date": "1949-10-30",
+    "type": "Lettre",
+    "path": "lettre-acheson-schuman-30-octobre-1949.txt",
+    "to": "Robert Schuman",
+    "locations": [
+      "usa",
+      "berlin",
+      "ruhr",
+      "amérique",
+      "france",
+      "allemagne",
+      "bonn",
+      "washington"
+    ],
+    "from": "Dean Acheson",
+    "characters": [
+      "Bevin, Ernest",
+      "Dean, Acheson",
+      "Schuman, Robert"
+    ]
+  },
+  "letter-18": {
+    "date": "1950-11-30",
+    "type": "Mémorandum",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "ruhr",
+      "belgique",
+      "grande-bretagne",
+      "pays-bas",
+      "italie",
+      "sarre",
+      "benelux",
+      "luxembourg"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Desjeunes, Suzanne",
+      "Van Helmont, Jacques",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-18.txt"
+  },
+  "letter-17": {
+    "date": "1950-11-28",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "luxembourg"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Henckes, J.B.",
+      "Hommel, Nicolas",
+      "Wehrer, Albert",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-17.txt"
+  },
+  "letter-45": {
+    "date": "1952-02-18",
+    "type": "Télégramme",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "atlantique",
+      "grande-bretagne",
+      "france",
+      "indochine",
+      "europe",
+      "lisbonne"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bidault, Georges",
+      "Faure, Edgar Jean",
+      "Harriman, William Averell",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-45.txt"
+  },
+  "note-monnet-probleme-allemand-22-septembre-1950": {
+    "date": "1950-09-22",
+    "type": "Note",
+    "path": "note-monnet-probleme-allemand-22-septembre-1950.txt",
+    "characters": [
+      "Monnet, Jean",
+      "Adenauer, Konrad"
+    ],
+    "locations": [
+      "corée",
+      "new-york",
+      "benelux",
+      "france",
+      "allemagne",
+      "angleterre",
+      "europe",
+      "atlantique"
+    ]
+  },
+  "memorandum-president-conseil-18-septembre-1950": {
+    "date": "1950-09-18",
+    "type": "Mémorandum",
+    "path": "memorandum-president-conseil-18-septembre-1950.txt",
+    "characters": [
+      "Pleven, René"
+    ],
+    "locations": [
+      "corée",
+      "new-york",
+      "france",
+      "etats-unis",
+      "royaume-uni",
+      "europe",
+      "atlantique"
+    ]
+  },
+  "letter-23": {
+    "date": "1950-12-28",
+    "type": "Mémorandum",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "ruhr",
+      "sarre"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bacon, Paul",
+      "Bourgès-Manoury, Maurice",
+      "Buron, Robert Albert Gaston",
+      "Faure, Edgar Jean",
+      "Louvel, Jean-Marie",
+      "Mayer, René",
+      "McCloy, Jonh Jay",
+      "Mollet, Guy",
+      "Petsche, Maurice",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-23.txt"
+  },
+  "letter-52": {
+    "date": "1952-07-01",
+    "type": "Lettre",
+    "place": "1952-06-28",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "ruhr",
+      "bonn",
+      "la haye"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Hallstein, Walter",
+      "Henle, Guenter",
+      "Le Vert, Paul Maurice",
+      "McCloy, Jonh Jay",
+      "Westrick, Ludger",
+      "Willner, Sydney H",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-52.txt"
+  },
+  "letter-38": {
+    "date": "1951-10-10",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Jean Monnet",
+    "locations": [
+      "genève"
+    ],
+    "from": "Robert Schuman",
+    "characters": [
+      "Brunet, Jean-Pierre",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-38.txt"
+  },
+  "letter-31": {
+    "date": "1951-03-10",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "ruhr"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-31.txt"
+  },
+  "appendix-16-1": {
+    "date": "1950-11-13",
+    "type": "Lettre",
+    "path": "appendix-16-1.txt",
+    "to": "René Pleven",
+    "locations": [
+      "lorraine",
+      "paris"
+    ],
+    "from": "Jules Aubrun",
+    "letter": "letter-16.txt",
+    "characters": [
+      "Aubrun, Jules",
+      "Pleven, René"
+    ]
+  },
+  "appendix-56-2": {
+    "date": "1952-07-22",
+    "type": "Note",
+    "path": "appendix-56-2.txt",
+    "locations": [
+      "italie",
+      "bruxelles",
+      "lisbonne"
+    ],
+    "letter": "letter-56.txt",
+    "characters": [
+      "Finnet, Paul C.E.",
+      "Serrarens, Petrus",
+      "Uri, Pierre Emmanuel"
+    ]
+  },
+  "letter-64": {
+    "date": "1953-01-7",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Pelou, Maurice",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-64.txt"
+  },
+  "appendix-50-1": {
+    "date": "1952-06-28",
+    "type": "Mémorandum",
+    "path": "appendix-50-1.txt",
+    "letter": "letter-50.txt",
+    "locations": [
+      "allemagne",
+      "strasbourg"
+    ]
+  },
+  "appendix-23-1": {
+    "date": "1950-12-28",
+    "type": "Note",
+    "path": "appendix-23-1.txt",
+    "letter": "letter-23.txt",
+    "locations": [
+      "france",
+      "berlin",
+      "sarre"
+    ]
+  },
+  "letter-47": {
+    "date": "1952-03-19",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "europe"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bourbon-Busset, Jacques Louis Robert Marie",
+      "McCloy, Jonh Jay",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-47.txt"
+  },
+  "letter-16": {
+    "date": "1950-11-18",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Aubrun, Jules",
+      "Petsche, Maurice",
+      "Pleven, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-16.txt"
+  },
+  "letter-07": {
+    "date": "1949-05-17",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Colin, André",
+      "Mayer, Daniel",
+      "Moch, Jules",
+      "Queuille, Henri",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-07.txt"
+  },
+  "letter-42": {
+    "date": "1952-01-25",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "ottawa",
+      "lisbonne"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Ely, Paul Henry Romuald",
+      "Harriman, William Averell",
+      "Plowden, Edwin Noel",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-42.txt"
+  },
+  "letter-36": {
+    "date": "1951-05-18",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Hubert, Lucien Louis Théodore",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-36.txt"
+  },
+  "appendix-56-1": {
+    "date": "1952-07-18",
+    "type": "Note",
+    "path": "appendix-56-1.txt",
+    "letter": "letter-56.txt",
+    "locations": []
+  },
+  "letter-01": {
+    "date": "1947-05-12",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-01.txt"
+  },
+  "letter-11": {
+    "date": "1950-09-16",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "new-york"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Acheson, Dean",
+      "Bevin, Ernest",
+      "Clappier, Bernard",
+      "Couve de Murville, Jacques Maurice",
+      "Parodi, Alexandre",
+      "Pleven, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-11.txt"
+  },
+  "appendix-34-2": {
+    "date": "1951-05-08",
+    "locations": [
+      "france"
+    ],
+    "path": "appendix-34-2.txt",
+    "letter": "letter-34.txt"
+  },
+  "letter-09": {
+    "date": "1950-09-9",
+    "type": "Mémorandum",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "grande-bretagne",
+      "corée",
+      "royaume-uni",
+      "europe",
+      "washington"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bevin, Ernest",
+      "Clappier, Bernard",
+      "Couve de Murville, Jacques Maurice",
+      "Parodi, Alexandre",
+      "Pleven, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-09.txt"
+  },
+  "letter-02": {
+    "date": "1947-10-04",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Jean Monnet",
+    "locations": [],
+    "from": "Robert Schuman",
+    "characters": [
+      "Guindey, Guillaume",
+      "Ramadier, Paul",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-02.txt"
+  },
+  "letter-60": {
+    "date": "1952-10-2",
+    "type": "Lettre",
+    "place": "Luxembourg",
+    "to": "Robert Schuman",
+    "locations": [
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Daum, Léon",
+      "Etzel, Franz",
+      "Giacchero, Enzo",
+      "Spierenburg, Dirk Pieter",
+      "Wehrer, Albert",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-60.txt"
+  },
+  "appendix-32-1": {
+    "date": "1951-03-19",
+    "type": "Télégramme",
+    "path": "appendix-32-1.txt",
+    "to": "Jean Monnet",
+    "locations": [],
+    "from": "Konrad Adenauer",
+    "letter": "letter-32.txt",
+    "characters": [
+      "Adenauer, Konrad",
+      "Monnet, Jean"
+    ]
+  },
+  "letter-13": {
+    "date": "1950-09-28",
+    "type": "Note",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "new-york",
+      "bonn",
+      "paris",
+      "allemagne"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Erhard, Ludwig",
+      "François-Poncet, André",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-13.txt"
+  },
+  "letter-28": {
+    "date": "1951-02-3",
+    "type": "Mémorandum",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "ruhr",
+      "luxembourg",
+      "italie",
+      "sarre",
+      "bonn",
+      "benelux"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Aron, Alexis",
+      "Bowie, Robert Richardson",
+      "Erhard, Ludwig",
+      "Hallstein, Walter",
+      "Hirsch, Etienne",
+      "Louvel, Jean-Marie",
+      "Mollet, Guy",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-28.txt"
+  },
+  "letter-30": {
+    "date": "1951-03-9",
+    "type": "Note",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "ruhr",
+      "sarre"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Bruce, David",
+      "Hoffmann, Johannes",
+      "McCloy, Jonh Jay",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-30.txt"
+  },
+  "letter-39": {
+    "date": "1951-12-12",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bidault, Georges",
+      "Pleven, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-39.txt"
+  },
+  "letter-65": {
+    "date": "1953-02-10",
+    "type": "Télégramme",
+    "place": "Luxembourg",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Coppé, Albert",
+      "Daum, Léon",
+      "Etzel, Franz",
+      "Giacchero, Enzo",
+      "Spierenburg, Dirk Pieter",
+      "Wehrer, Albert",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-65.txt"
+  },
+  "letter-34": {
+    "date": "1951-05-8",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-34.txt"
+  },
+  "appendix-20-1": {
+    "date": "1950-12-4",
+    "type": "Note",
+    "path": "appendix-20-1.txt",
+    "letter": "letter-20.txt",
+    "locations": [
+      "usa",
+      "grande-bretagne",
+      "la havane",
+      "france",
+      "allemagne",
+      "italie",
+      "europe",
+      "benelux",
+      "pays-bas",
+      "ruhr",
+      "belgique",
+      "luxembourg"
+    ]
+  },
+  "appendix-16-2": {
+    "date": "1950-11-17",
+    "type": "Lettre",
+    "path": "appendix-16-2.txt",
+    "to": "Jules Aubrun",
+    "locations": [
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "letter": "letter-16.txt",
+    "characters": [
+      "Aron, Alexis",
+      "Denis, Pierre",
+      "Ferry, Jacques",
+      "Hirsch, Etienne",
+      "Labbé, Roland Georges Joseph Marie",
+      "Louvel, Jean Marie",
+      "Passe, Georges",
+      "Pleven, René",
+      "Monnet, Jean",
+      "Aubrun, Jules"
+    ]
+  },
+  "lettre-massigli-schuman-14-juin-1950": {
+    "date": "1950-06-14",
+    "type": "Lettre",
+    "path": "lettre-massigli-schuman-14-juin-1950.txt",
+    "to": "Robert Schuman",
+    "locations": [
+      "atlantique",
+      "paris"
+    ],
+    "from": "René Massigli",
+    "characters": [
+      "Atlee, Clement",
+      "Massigli, René",
+      "Strang, Sir William",
+      "Schuman, Robert"
+    ]
+  },
+  "letter-57": {
+    "date": "1952-07-23",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Louvel, Jean-Marie",
+      "Pinay, Antoine",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-57.txt"
+  },
+  "letter-33": {
+    "date": "1951-03-24",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "bonn",
+      "washington"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bonnet, Henri",
+      "Bruce, David",
+      "Marshall, George Catlett",
+      "Tomlinson, William Mahon",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-33.txt"
+  },
+  "letter-53": {
+    "date": "1952-07-9",
+    "type": "Mémorandum",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "chine",
+      "strasbourg",
+      "russie",
+      "allemagne",
+      "pologne",
+      "italie"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Bruce, David",
+      "De Gasperi, Alcide",
+      "Eden, Anthony",
+      "François-Poncet, André",
+      "Hallstein, Walter",
+      "Le Vert, Paul Maurice",
+      "McCloy, Jonh Jay",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-53.txt"
+  },
+  "letter-40": {
+    "date": "1951-12-22",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "ottawa",
+      "maroc",
+      "grande-bretagne",
+      "amérique",
+      "france",
+      "lisbonne",
+      "bruxelles",
+      "europe",
+      "atlantique"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bourgès-Manoury, Maurice",
+      "Mayer, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-40.txt"
+  },
+  "letter-26": {
+    "date": "1951-01-22",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "ruhr",
+      "bonn"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Louvel, Jean-Marie",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-26.txt"
+  },
+  "letter-46": {
+    "date": "1952-03-19",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "europe",
+      "bonn"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "McCloy, Jonh Jay",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-46.txt"
+  },
+  "letter-03": {
+    "date": "1948-04-18",
+    "type": "Lettre",
+    "place": "Washington",
+    "to": "Robert Schuman",
+    "locations": [
+      "paris",
+      "france",
+      "californie",
+      "europe",
+      "washington",
+      "bonn"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bonnet, Henri",
+      "Cripps, Sir Stafford",
+      "Hirsch, Etienne",
+      "Hoffman, Paul Gray",
+      "Jouhaux, Léon",
+      "Marshall, George Catlett",
+      "Mayer, René",
+      "Spaak, Paul-Henri",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-03.txt"
+  },
+  "letter-04": {
+    "date": "1948-05-7",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "moselle",
+      "washington"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Regan",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-04.txt"
+  },
+  "letter-43": {
+    "date": "1952-02-01",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "atlantique",
+      "ruhr",
+      "grande-bretagne",
+      "france",
+      "sarre",
+      "indochine",
+      "washington"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Acheson, Dean",
+      "Churchill, Sir Winston Leonard Spencer",
+      "Eden, Anthony",
+      "Harvey, Oliver Charles",
+      "Hayter, Sir William Goodenough",
+      "Plowden, Edwin Noel",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-43.txt"
+  },
+  "letter-54": {
+    "date": "1952-07-10",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "McCloy, Jonh Jay",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-54.txt"
+  },
+  "letter-61": {
+    "date": "1952-10-17",
+    "type": "Lettre",
+    "place": "Luxembourg",
+    "to": "Robert Schuman",
+    "locations": [
+      "royaume-uni",
+      "paris"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Erhard, Ludwig",
+      "Louvel, Jean-Marie",
+      "Marjolin, Robert Ernest",
+      "Spierenburg, Dirk Pieter",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-61.txt"
+  },
+  "lettre-schuman-adenauer-07-mai-1950": {
+    "date": "1950-05-07",
+    "type": "Lettre",
+    "path": "lettre-schuman-adenauer-07-mai-1950.txt",
+    "to": "Konrad Adenauer",
+    "locations": [
+      "france",
+      "ruhr",
+      "europe"
+    ],
+    "from": "Robert Schuman",
+    "characters": [
+      "Schuman, Robert",
+      "Adenauer, Konrad"
+    ]
+  },
+  "appendix-50-3": {
+    "date": "1952-06-28",
+    "type": "Projet",
+    "path": "appendix-50-3.txt",
+    "letter": "letter-50.txt",
+    "locations": [
+      "france",
+      "italie"
+    ]
+  },
+  "letter-37": {
+    "date": "1951-09-25",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Alphand, Hervé",
+      "Mayer, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-37.txt"
+  },
+  "appendix-08-1": {
+    "date": "1950-08-14",
+    "type": "Mémorandum",
+    "path": "appendix-08-1.txt",
+    "letter": "letter-08.txt",
+    "locations": [
+      "france",
+      "strasbourg",
+      "europe",
+      "paris",
+      "benelux"
+    ]
+  },
+  "note-monnet-schuman-01-mai-1950": {
+    "date": "1950-05-01",
+    "type": "Note",
+    "path": "note-monnet-schuman-01-mai-1950.txt",
+    "characters": [
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "locations": [
+      "usa",
+      "strasbourg",
+      "amérique",
+      "france",
+      "allemagne",
+      "italie",
+      "bruxelles",
+      "europe",
+      "benelux"
+    ]
+  },
+  "letter-62": {
+    "date": "1952-12-01",
+    "type": "Lettre",
+    "place": "1952-12-1",
+    "to": "Jean Monnet",
+    "locations": [],
+    "from": "Robert Schuman",
+    "characters": [
+      "Pelou, Maurice",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-62.txt"
+  },
+  "letter-10": {
+    "date": "1950-09-14",
+    "type": "Télégramme",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "strasbourg",
+      "benelux",
+      "washington"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Clappier, Bernard",
+      "Couve de Murville, Jacques Maurice",
+      "Hallstein, Walter",
+      "Parodi, Alexandre",
+      "Pleven, René",
+      "Schneiter, Pierre",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-10.txt"
+  },
+  "letter-14": {
+    "date": "1950-10-14",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "allemagne",
+      "new-york",
+      "washington",
+      "amérique",
+      "pentagone",
+      "italie",
+      "europe",
+      "paris",
+      "bonn"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Hallstein, Walter",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-14.txt"
+  },
+  "letter-68": {
+    "date": "1953-05-9",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Jean Monnet",
+    "locations": [
+      "gênes",
+      "norvège",
+      "grande-bretagne",
+      "quai d orsay",
+      "dakar",
+      "suisse",
+      "europe",
+      "afrique",
+      "danemark",
+      "luxembourg",
+      "royaume-uni",
+      "bonn",
+      "suède"
+    ],
+    "from": "Robert Schuman",
+    "characters": [
+      "Adenauer, Konrad",
+      "Balladore Pallieri, Cesare",
+      "Bauer, Gérard",
+      "Bech, Joseph",
+      "Bidault, Georges",
+      "Blaisse, Pieter Alfons",
+      "Boden, Hans August Constantin",
+      "Bruce, David",
+      "Clappier, Bernard",
+      "De Gasperi, Alcide",
+      "Finmark, Tor Lennart",
+      "Hallstein, Walter",
+      "Hamburger, Richard Anton",
+      "Hirsch, Etienne",
+      "Kohnstamm, Max",
+      "Koht-Gruda, Paul",
+      "Madsen, Poul Palle",
+      "Mayer, René",
+      "Pleven, René",
+      "Potthoff, Heinz",
+      "Reuter, Paul",
+      "Riese, Otto",
+      "Rueff, Jacques Léon",
+      "Spaak, Paul-Henri",
+      "Spierenburg, Dirk Pieter",
+      "Suetens, Max",
+      "Taviani, Paolo Emilio",
+      "Tomlinson, William Mahon",
+      "Uri, Pierre Emmanuel",
+      "Vinck, François",
+      "Wehrer, Albert",
+      "Weir, Sir Cecil McAlpine",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-68.txt"
+  },
+  "letter-06": {
+    "date": "1948-06-25",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bidault, Georges",
+      "Marshall, George Catlett",
+      "Mayer, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-06.txt"
+  },
+  "letter-51": {
+    "date": "1952-06-28",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "la haye"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Hallstein, Walter",
+      "Le Vert, Paul Maurice",
+      "McCloy, Jonh Jay",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-51.txt"
+  },
+  "letter-66": {
+    "date": "1953-02-19",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Jean Monnet",
+    "locations": [
+      "luxembourg"
+    ],
+    "from": "Robert Schuman",
+    "characters": [
+      "Finet, Paul C.E.",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-66.txt"
+  },
+  "appendix-63-1": {
+    "date": "1953-01-06",
+    "type": "Lettre",
+    "path": "appendix-63-1.txt",
+    "to": "Paul-Henri Spaak",
+    "locations": [],
+    "from": "Jean Monnet",
+    "letter": "letter-63.txt",
+    "characters": [
+      "Spaak, Paul-Henri",
+      "Monnet, Jean"
+    ]
+  },
+  "appendix-04-1": {
+    "date": "1948-05-7",
+    "type": "Note",
+    "path": "appendix-04-1.txt",
+    "locations": [
+      "france",
+      "tunisie",
+      "washington",
+      "paris",
+      "usa"
+    ],
+    "letter": "letter-04.txt",
+    "characters": [
+      "Durand, André Gaston"
+    ]
+  },
+  "letter-63": {
+    "date": "1952-01-6",
+    "type": "Lettre",
+    "place": "Luxembourg",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Spaak, Paul-Henri",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-63.txt"
+  },
+  "appendix-07-1": {
+    "date": "1949-04-09",
+    "type": "Lettre",
+    "path": "appendix-07-1.txt",
+    "to": "Henri Queuille",
+    "locations": [
+      "bonn"
+    ],
+    "from": "Jean Monnet",
+    "letter": "letter-07.txt",
+    "characters": [
+      "Marshall, George Catlett",
+      "Queuille, Henri",
+      "Monnet, Jean"
+    ]
+  },
+  "letter-05": {
+    "date": "1948-05-10",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "bordeaux",
+      "amérique",
+      "bonn",
+      "washington"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bonnet, Henri",
+      "Caffery, Jefferson",
+      "Clappier, Bernard",
+      "Marshall, George Catlett",
+      "Thibodeaux, Ben. H.",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-05.txt"
+  },
+  "letter-32": {
+    "date": "1951-03-19",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-32.txt"
+  },
+  "letter-20": {
+    "date": "1950-12-4",
+    "type": "Mémorandum",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "ruhr",
+      "bruxelles",
+      "luxembourg",
+      "france"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Charpentier, Pierre-Albert",
+      "Poher, Alain Emile Louis Marie",
+      "Spierenburg, Dirk Pieter",
+      "Suetens, Max",
+      "Valéry, François",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-20.txt"
+  },
+  "letter-19": {
+    "date": "1950-12-3",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "bonn"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Clappier, Bernard",
+      "Hallstein, Walter",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-19.txt"
+  },
+  "letter-67": {
+    "date": "1953-04-27",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-67.txt"
+  },
+  "letter-48": {
+    "date": "1952-04-10",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "france",
+      "lisbonne",
+      "washington",
+      "paris",
+      "atlantique"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Pinay, Antoine",
+      "Pleven, René",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-48.txt"
+  },
+  "letter-15": {
+    "date": "1950-11-10",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "moselle"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Buron, Robert Albert Gaston",
+      "Maud'Huy, Bertrand de",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-15.txt"
+  },
+  "appendix-02-1": {
+    "date": "1947-10-04",
+    "type": "Lettre",
+    "path": "appendix-02-1.txt",
+    "to": "Robert Schuman",
+    "locations": [
+      "washington",
+      "etats-unis"
+    ],
+    "from": "Guillaume Guindey",
+    "letter": "letter-02.txt",
+    "characters": [
+      "Auriol, Vincent",
+      "Chauvel, Jean-Michel Henri",
+      "Gouin, Félix",
+      "Guindey, Guillaume",
+      "Herter, Christian Archibald",
+      "Ramadier, Paul",
+      "Saxon, James Joseph",
+      "Snyder, John Wesley",
+      "Teitgen, Pierre-Henri",
+      "Schuman, Robert"
+    ]
+  },
+  "appendix-47-1": {
+    "date": "1952-03-19",
+    "locations": [
+      "allemagne",
+      "france"
+    ],
+    "path": "appendix-47-1.txt",
+    "letter": "letter-47.txt"
+  },
+  "appendix-05-1": {
+    "date": "1948-05-10",
+    "type": "Note",
+    "path": "appendix-05-1.txt",
+    "locations": [
+      "bordeaux",
+      "europe",
+      "bonn"
+    ],
+    "letter": "letter-05.txt",
+    "characters": [
+      "Marshall, George Catlett"
+    ]
+  },
+  "letter-24": {
+    "date": "1951-01-6",
+    "type": "Mémorandum",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "italie",
+      "ruhr",
+      "sarre"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bacon, Paul",
+      "Blamont, Emile",
+      "Buron, Robert Albert Gaston",
+      "Faure, Edgar Jean",
+      "Louvel, Jean-Marie",
+      "Mayer, René",
+      "Mollet, Guy",
+      "Petsche, Maurice",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-24.txt"
+  },
+  "letter-58": {
+    "date": "1952-07-29",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Jean Monnet",
+    "locations": [
+      "inde",
+      "luxembourg",
+      "paris"
+    ],
+    "from": "Robert Schuman",
+    "characters": [
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-58.txt"
+  },
+  "letter-25": {
+    "date": "1951-01-17",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "ruhr"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Hallstein, Walter",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-25.txt"
+  },
+  "letter-44": {
+    "date": "1952-02-15",
+    "type": "Mémorandum",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "allemagne",
+      "ruhr"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Acheson, Dean",
+      "Adenauer, Konrad",
+      "Eden, Anthony",
+      "McCloy, Jonh Jay",
+      "Westrick, Ludger",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-44.txt"
+  },
+  "appendix-02-2": {
+    "date": "1947-10-02",
+    "type": "Lettre",
+    "path": "appendix-02-2.txt",
+    "to": "Paul Ramadier",
+    "locations": [
+      "france",
+      "washington",
+      "bonn",
+      "paris"
+    ],
+    "from": "Jean Monnet",
+    "letter": "letter-02.txt",
+    "characters": [
+      "Blum, Léon",
+      "Bonnet, Henri",
+      "Caffery, Jefferson",
+      "Denis, Pierre",
+      "Guindey, Guillaume",
+      "Herter, Christian Archibald",
+      "MacChesney, Alfred Brunson",
+      "Marshall, George Catlett",
+      "Snyder, John Wesley",
+      "Watts, Philip H.",
+      "Monnet, Jean",
+      "Ramadier, Paul"
+    ]
+  },
+  "appendix-34-1": {
+    "date": "1951-05-08",
+    "type": "Mémorandum",
+    "path": "appendix-34-1.txt",
+    "locations": [
+      "france",
+      "bonn"
+    ],
+    "letter": "letter-34.txt",
+    "characters": [
+      "Adenauer, Konrad",
+      "Hallstein, Walter",
+      "Ophuels, Carl Friedrich"
+    ]
+  },
+  "letter-21": {
+    "date": "1950-12-6",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "sarre"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Hallstein, Walter",
+      "Spierenburg, Dirk Pieter",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-21.txt"
+  },
+  "letter-27": {
+    "date": "1951-01-27",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "italie",
+      "belgique",
+      "luxembourg"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Wehrer, Albert",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-27.txt"
+  },
+  "letter-12": {
+    "date": "1950-09-16",
+    "type": "Mémorandum",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [
+      "corée",
+      "benelux",
+      "france",
+      "allemagne",
+      "europe",
+      "atlantique"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Adenauer, Konrad",
+      "Clappier, Bernard",
+      "Couve de Murville, Jacques Maurice",
+      "Hallstein, Walter",
+      "Parodi, Alexandre",
+      "Pleven, René",
+      "Schneiter, Pierre",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-12.txt"
+  },
+  "letter-49": {
+    "date": "1952-06-26",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Spaak, Paul-Henri",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-49.txt"
+  },
+  "letter-55": {
+    "date": "1952-07-22",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Bourbon-Busset, Jacques Louis Robert Marie",
+      "Hirsch, Etienne",
+      "Uri, Pierre Emmanuel",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-55.txt"
+  },
+  "letter-59": {
+    "date": "1952-07-29",
+    "type": "Lettre",
+    "place": "Paris",
+    "to": "Robert Schuman",
+    "locations": [],
+    "from": "Jean Monnet",
+    "characters": [
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-59.txt"
+  },
+  "appendix-37-1": {
+    "date": "1951-09-25",
+    "type": "Mémorandum",
+    "path": "appendix-37-1.txt",
+    "locations": [
+      "ottawa",
+      "washington",
+      "grande-bretagne",
+      "paris",
+      "usa"
+    ],
+    "letter": "letter-37.txt",
+    "characters": [
+      "Harriman, William Averell",
+      "Hayter, Sir William Goodenough",
+      "Tomlinson, William Mahon"
+    ]
+  },
+  "letter-50": {
+    "date": "1952-06-28",
+    "type": "Lettre",
+    "place": "",
+    "to": "Robert Schuman",
+    "locations": [
+      "strasbourg"
+    ],
+    "from": "Jean Monnet",
+    "characters": [
+      "Blamont, Emile",
+      "Ségalat, André",
+      "Monnet, Jean",
+      "Schuman, Robert"
+    ],
+    "path": "letter-50.txt"
+  }
+}
