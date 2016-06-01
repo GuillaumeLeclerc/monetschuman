@@ -1,4 +1,4 @@
-# Histoire et Humanité digitale
+# Histoire et Humanités digitales
 
 __Une analyse de la correspondance entre Jean Monet et Robert Schuman__
 
